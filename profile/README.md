@@ -1,5 +1,3 @@
-# NJ Labs
-
 <br />
 
 <p align="center">
