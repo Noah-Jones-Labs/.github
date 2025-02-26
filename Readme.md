@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/zhaoswen/simx-engine/">
-    <img src="runner/resource/SimxIcon.png" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/200565863?s=400&u=2a1d41c0e07c3ccb453bcfad77a17c85ef2aef1f&v=4" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">NJ Labs</h3>
